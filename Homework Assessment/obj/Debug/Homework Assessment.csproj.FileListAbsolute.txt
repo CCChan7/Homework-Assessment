@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2015\Projects\Homework Assessment\Homework Assessment\bin\Debug\Homework Assessment.exe.config
+c:\users\home\documents\visual studio 2015\Projects\Homework Assessment\Homework Assessment\bin\Debug\Homework Assessment.exe
+c:\users\home\documents\visual studio 2015\Projects\Homework Assessment\Homework Assessment\bin\Debug\Homework Assessment.pdb
+c:\users\home\documents\visual studio 2015\Projects\Homework Assessment\Homework Assessment\obj\Debug\Homework Assessment.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\Homework Assessment\Homework Assessment\obj\Debug\Homework Assessment.exe
+c:\users\home\documents\visual studio 2015\Projects\Homework Assessment\Homework Assessment\obj\Debug\Homework Assessment.pdb
